@@ -1,1 +1,1 @@
-# practice...java-core
+# Java Core
