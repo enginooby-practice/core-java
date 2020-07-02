@@ -12,5 +12,10 @@ PrimitiveTypes {
         //underscore integer is supported by JDK 7 above
         int num = 123_234_123;
         System.out.println(num);
+
+        char myChar='D';
+        char myUnicodeChar='\u0044';
+        System.out.println(myChar);
+        System.out.println(myUnicodeChar);
     }
 }
