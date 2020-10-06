@@ -4,19 +4,19 @@ public class WrappingUnwrappingDriver {
   public static void main(String[] args) {
     byte a = 1;
     // wrapping around Byte object
-    Byte byteobj = new Byte(a);
+    Byte byteobj = Byte.valueOf(a);
 
     int b = 10;
     //wrapping around Integer object
-    Integer intobj = new Integer(b);
+    Integer intobj = Integer.valueOf(b);
 
     float c = 18.6f;
     // wrapping around Float object
-    Float floatobj = new Float(c);
+    Float floatobj = Float.valueOf(c);
 
     double d = 250.5;
     // Wrapping around Double object
-    Double doubleobj = new Double(d);
+    Double doubleobj = Double.valueOf(d);
 
     char e = 'a';
     // wrapping around Character object
