@@ -1,6 +1,6 @@
 # Practice Topics
 - Primitive types 
-[[PrimitiveTypes](https://github.com/cpulover-practice/core-java/blob/master/src/PrimitiveTypes.java)]
+[[basic.PrimitiveTypes](https://github.com/cpulover-practice/core-java/blob/master/src/PrimitiveTypes.java)]
   - ```MIN_VALUE``` & ```MAX_VALUE``` 
   - Overflow and underflow 
   - Underscore integer (JDK 7+) 
